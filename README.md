@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there👋
+### Eu sou o Gabriel!
 
 - 🔭 Atualmente trabalho com Design Gráfico, Flyers, Edição de vídeo, Websites e Front-end na programação
 - 🌱 Estudando conteúdo Back-end
